@@ -1,1 +1,1 @@
-print()[D"")[D[DHello Guys")
+print("Hello Guys")
